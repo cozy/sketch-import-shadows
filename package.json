@@ -1,6 +1,7 @@
 {
   "name": "import-shadows",
   "description": "Import CSS shadows",
+  "repository": "https://github.com/cozy/sketch-import-shadows",
   "version": "1.0.0",
   "engines": {
     "sketch": ">=49.0"
