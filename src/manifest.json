@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Import shadows",
+      "identifier": "import-shadows.my-command-identifier",
+      "script": "./import-shadows.js"
+    }
+  ],
+  "menu": {
+    "title": "Import shadows",
+    "items": [
+      "import-shadows.my-command-identifier"
+    ]
+  }
+}
